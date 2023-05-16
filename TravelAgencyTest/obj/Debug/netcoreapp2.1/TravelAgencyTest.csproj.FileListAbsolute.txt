@@ -1,0 +1,419 @@
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.deps.json
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.json
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.dev.json
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.dll
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.dll
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csprojAssemblyReference.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CoreCompileInputs.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfoInputs.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.input.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.output.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorCoreGenerate.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.dll
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CopyComplete
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.deps.json
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.json
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.dev.json
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.dll
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.dll
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csprojAssemblyReference.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CoreCompileInputs.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfoInputs.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.input.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.output.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorCoreGenerate.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Create.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Delete.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Details.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Edit.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Create.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Delete.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Details.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Edit.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Create.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Delete.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Details.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Edit.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Create.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Delete.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Details.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Edit.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Create.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Delete.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Details.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Edit.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cache
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.dll
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CopyComplete
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\edibm\Desktop\Dosarele X\Facultate\Anul 3\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\appsettings.json
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.deps.json
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.json
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.dev.json
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.dll
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.dll
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.AssemblyReference.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfoInputs.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfo.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CoreCompileInputs.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.input.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.output.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorCoreGenerate.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Create.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Delete.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Details.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Edit.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Create.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Delete.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Details.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Edit.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Create.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Delete.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Details.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Edit.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Create.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Details.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Create.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Delete.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Details.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Edit.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Index.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cs
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.dll
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.genruntimeconfig.cache
+Z:\Facultate\Sem2\WEB\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CopyComplete
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.deps.json
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.json
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.dev.json
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.dll
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.dll
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.AssemblyReference.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfoInputs.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfo.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CoreCompileInputs.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.input.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.output.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorCoreGenerate.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Create.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Delete.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Details.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Edit.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Create.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Delete.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Details.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Edit.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Create.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Delete.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Details.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Edit.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Create.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Details.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Create.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Delete.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Details.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Edit.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Index.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cs
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.dll
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.genruntimeconfig.cache
+C:\Users\utaed\Desktop\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CopyComplete
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.deps.json
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.json
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.runtimeconfig.dev.json
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.dll
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.dll
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\bin\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.AssemblyReference.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfoInputs.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.AssemblyInfo.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorAssemblyInfo.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.input.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.TagHelpers.output.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorCoreGenerate.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Create.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Delete.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Details.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Edit.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\AirlineCompanies\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Create.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Delete.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Details.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Edit.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Holidays\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Create.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Delete.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Details.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Edit.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Create.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Details.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Create.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Delete.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Details.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Edit.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\Tickets\Index.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.RazorTargetAssemblyInfo.cs
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.Views.pdb
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.dll
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.pdb
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.genruntimeconfig.cache
+D:\Facultate\Anul 4\Sem 2\TravelAgencyTest - Copy\TravelAgencyTest\obj\Debug\netcoreapp2.1\TravelAgencyTest.csproj.CopyComplete

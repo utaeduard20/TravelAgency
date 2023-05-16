@@ -1,0 +1,138 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:azure;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/*.parallax {
+    background-image: url(../images/parallax1.jpg);
+    height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 20px;
+}*/
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+
+/*Scroll Bottom to Top css effect*/
+#button {
+    display: inline-block;
+    background-color: #FF9800;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, opacity .5s, visibility .5s;
+    opacity: 1;
+    visibility: hidden;
+    z-index: 1000;
+}
+
+    #button::after {
+        content: "\f077";
+        font-family: FontAwesome;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 2em;
+        line-height: 50px;
+        color: #fff;
+    }
+
+    #button:hover {
+        cursor: pointer;
+        background-color: #333;
+    }
+
+    #button:active {
+        background-color: #555;
+    }
+
+    #button.show {
+        opacity: 1;
+        visibility: visible;
+    }
+
+@media (min-width: 500px) {
+
+    #button {
+        margin: 30px;
+    }
+}
+
+
+/*Holiday Trading Card*/
+.title {
+    text-decoration: none;
+    position: center;
+    font-style: italic;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.list {
+    font-weight: lighter;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.top {
+    background-color: white;
+    border-style: solid;
+    border-width: thin;
+    box-shadow: 7px 7px 7px #c9c2c2;
+    width: 425px;
+}
+
+.mid {
+    background-color: white;
+    border: thin solid;
+    width: 400px;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 10px;
+}
+
+.bottom {
+    font-style: oblique;
+}
+
+/*Contact form design*/
+

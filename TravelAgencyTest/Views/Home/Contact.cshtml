@@ -1,0 +1,85 @@
+﻿
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model TravelAgencyTest.Models.ContactFormModel
+
+@{
+    ViewData["Title"] = "Contact Us";
+}
+<h2>@ViewData["Title"]</h2>
+
+
+<form asp-action="Contact" asp-controller="Home" class="form form-horizontal" method="post">
+    <style>
+        .submit {
+            background-color: #ddd;
+            border: none;
+            color: black;
+            padding: 16px 32px;
+            text-align: center;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition: 0.3s;
+        }
+
+            .submit:hover {
+                background-color: #3e8e41;
+                color: white;
+            }
+    </style>
+    <div asp-validation-summary="All"></div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="Name" class="col-md-3 right">Please enter your name:</label>
+                <div class="col-md-9">
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="Email" class="col-md-3 right">Please enter your email:</label>
+                <div class="col-md-9">
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="Message" class="col-md-3 right">Please enter your message:</label>
+                <div class="col-md-9">
+                    <textarea asp-for="Message" rows="6" class="form-control"></textarea>
+                    <span asp-validation-for="Message"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <button type="submit" class="submit">Send Message</button>
+        </div>
+    </div>
+</form>
+
+<footer>
+
+    <address>
+        200440 Craiova<br />
+        Bulevardul Decebal nr. 107,<br />
+        <abbr title="Phone">Phone:</abbr>
+        0249515111
+    </address>
+
+    <address>
+        <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    </address>
+
+</footer>
+

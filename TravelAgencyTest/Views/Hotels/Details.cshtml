@@ -1,0 +1,66 @@
+﻿@model TravelAgencyTest.Models.Hotel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Hotel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AllInclusive)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AllInclusive)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Healthcare)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Healthcare)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Days)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Days)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Rooms)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Rooms)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HolidayId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HolidayId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Holiday)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Holiday.HolidayId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.HotelId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
